@@ -43,7 +43,7 @@ public class Question2 {
 	 *
 	 * Create a function 'operations' which calls 'operateUsing' once with each of the following inputs:
 	 *  - The function to print to the console
-	 *  - A function which takes a double as an input, adds 1772 to it, and prints the result.
+	 *  - A function which takes a double as an input and prints the sine of the result.
 	 *    You may either create this as a named function like the tasks above, or use the arrow operator.
 	 */
 	// Write your code here
